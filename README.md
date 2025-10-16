@@ -1,2 +1,4 @@
-# Julia
-Юлия
+# NeuroStartUp
+
+![логотип](image.png)
+
